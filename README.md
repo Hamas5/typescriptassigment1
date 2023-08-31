@@ -1,0 +1,1 @@
+# typescriptassigment1
